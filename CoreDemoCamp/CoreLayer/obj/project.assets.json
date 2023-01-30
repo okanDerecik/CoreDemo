@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\user\\Desktop\\CoreDemo\\CoreLayer\\CoreLayer.csproj",
+      "projectUniqueName": "C:\\Users\\user\\Desktop\\CoreDemo\\CoreDemo\\CoreDemoCamp\\CoreLayer\\CoreLayer.csproj",
       "projectName": "CoreLayer",
-      "projectPath": "C:\\Users\\user\\Desktop\\CoreDemo\\CoreLayer\\CoreLayer.csproj",
+      "projectPath": "C:\\Users\\user\\Desktop\\CoreDemo\\CoreDemo\\CoreDemoCamp\\CoreLayer\\CoreLayer.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\user\\Desktop\\CoreDemo\\CoreLayer\\obj\\",
+      "outputPath": "C:\\Users\\user\\Desktop\\CoreDemo\\CoreDemo\\CoreDemoCamp\\CoreLayer\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -61,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
       }
     }
   }
