@@ -1,0 +1,46 @@
+﻿@addTagHelper*, Microsoft.AspNetCore.Mvc.TagHelpers
+
+<div class="tech-btm">
+    <p>Teknoloji, yazılım ve diğer bloglar </p>
+    <form  id="subForm" method="post" asp-action="SubscribeMail" asp-controller="NewsLetter">
+        <input type="email" placeholder="Mail" required="" name="Mail">
+        <input type="submit" value="Abone Ol">
+        <br />
+    </form>
+
+
+    <script src="~/CoreBlogTema/js/jquery-2.2.3.min.js"></script>
+    <script src="~/js/site.js"></script>
+    <script src="~/lib/jquery/dist/jquery.js"></script>
+    <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.3/jquery.min.js"></script>
+    <script type="text/javascript">
+
+        $(function () {
+            $("#subForm").submit(function (e) {
+
+                console.log('Doing ajax submit');
+                var formAction = $(this).attr("action");    
+                var formData = {
+                    Mail: $("#Mail").val()
+                };
+                $.ajax({
+                    type: 'post',
+                    url: formAction,
+                    data: formData,
+                    encode: true,
+                }).done(function (result) {
+                    if (result.status === "Success") {
+                        $('#Mail').val('') *
+                            alert(result.message);
+                        console.log("ok", result.message);
+                    } else {
+                        alert(result.errorMessage);
+                        console.log("bad", result.errorMessage);
+                    }
+                });
+                e.preventDefault();
+            });
+        })
+    </script>
+
+</div>

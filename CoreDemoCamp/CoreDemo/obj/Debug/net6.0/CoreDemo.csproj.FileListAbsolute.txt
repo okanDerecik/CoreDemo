@@ -581,3 +581,6 @@ C:\Users\user\Desktop\CoreDemo\CoreDemoCamp\CoreDemo\obj\Debug\net6.0\scopedcss\
 C:\Users\user\Desktop\CoreDemo\CoreDemoCamp\CoreDemo\obj\Debug\net6.0\CoreDemo.csproj.CopyComplete
 C:\Users\user\Desktop\CoreDemo\CoreDemoCamp\CoreDemo\obj\Debug\net6.0\CoreDemo.genruntimeconfig.cache
 C:\Users\user\Desktop\CoreDemo\CoreDemoCamp\CoreDemo\obj\Debug\net6.0\ref\CoreDemo.dll
+C:\Users\user\Desktop\CoreDemo\CoreDemoCamp\CoreDemo\bin\Debug\net6.0\FluentValidation.dll
+C:\Users\user\Desktop\CoreDemo\CoreDemoCamp\CoreDemo\bin\Debug\net6.0\FluentValidation.AspNetCore.dll
+C:\Users\user\Desktop\CoreDemo\CoreDemoCamp\CoreDemo\bin\Debug\net6.0\FluentValidation.DependencyInjectionExtensions.dll

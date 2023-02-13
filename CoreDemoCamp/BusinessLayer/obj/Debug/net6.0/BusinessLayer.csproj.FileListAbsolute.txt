@@ -32,3 +32,5 @@ C:\Users\user\Desktop\CoreDemo\CoreDemoCamp\BusinessLayer\bin\Debug\net6.0\DataA
 C:\Users\user\Desktop\CoreDemo\CoreDemoCamp\BusinessLayer\bin\Debug\net6.0\EntityLayer.pdb
 C:\Users\user\Desktop\CoreDemo\CoreDemoCamp\BusinessLayer\obj\Debug\net6.0\BusinessLayer.csproj.CopyComplete
 C:\Users\user\Desktop\CoreDemo\CoreDemoCamp\BusinessLayer\obj\Debug\net6.0\ref\BusinessLayer.dll
+C:\Users\user\Desktop\CoreDemo\CoreDemoCamp\BusinessLayer\bin\Debug\net6.0\BusinessLayer.runtimeconfig.json
+C:\Users\user\Desktop\CoreDemo\CoreDemoCamp\BusinessLayer\obj\Debug\net6.0\BusinessLayer.genruntimeconfig.cache
