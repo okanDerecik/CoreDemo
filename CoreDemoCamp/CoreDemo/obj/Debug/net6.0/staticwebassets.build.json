@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "IHI3CrWuNXeJ3ik1FGZi2zKVPEfZB1ptKbv7+3iwLeg=",
+  "Hash": "zvvuGzwb8RuxZlnhLRUvU09TbklqqucHNfB9DtL9m/Y=",
   "Source": "CoreDemo",
   "BasePath": "_content/CoreDemo",
   "Mode": "Default",
@@ -3449,6 +3449,40 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\writer\\assets\\images\\logo-mini.svg"
+    },
+    {
+      "Identity": "C:\\Users\\user\\Desktop\\CoreDemo\\CoreDemoCamp\\CoreDemo\\wwwroot\\writer\\assets\\images\\okand.png",
+      "SourceId": "CoreDemo",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\CoreDemo\\CoreDemoCamp\\CoreDemo\\wwwroot\\",
+      "BasePath": "_content/CoreDemo",
+      "RelativePath": "writer/assets/images/okand.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\writer\\assets\\images\\okand.png"
+    },
+    {
+      "Identity": "C:\\Users\\user\\Desktop\\CoreDemo\\CoreDemoCamp\\CoreDemo\\wwwroot\\writer\\assets\\images\\okand.svg",
+      "SourceId": "CoreDemo",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\CoreDemo\\CoreDemoCamp\\CoreDemo\\wwwroot\\",
+      "BasePath": "_content/CoreDemo",
+      "RelativePath": "writer/assets/images/okand.svg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\writer\\assets\\images\\okand.svg"
     },
     {
       "Identity": "C:\\Users\\user\\Desktop\\CoreDemo\\CoreDemoCamp\\CoreDemo\\wwwroot\\writer\\assets\\images\\sprites\\blue.png",

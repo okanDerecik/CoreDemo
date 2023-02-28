@@ -825,6 +825,14 @@
       "PackagePath": "staticwebassets\\writer\\assets\\images\\logo.svg"
     },
     {
+      "Id": "C:\\Users\\user\\Desktop\\CoreDemo\\CoreDemoCamp\\CoreDemo\\wwwroot\\writer\\assets\\images\\okand.png",
+      "PackagePath": "staticwebassets\\writer\\assets\\images\\okand.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\CoreDemo\\CoreDemoCamp\\CoreDemo\\wwwroot\\writer\\assets\\images\\okand.svg",
+      "PackagePath": "staticwebassets\\writer\\assets\\images\\okand.svg"
+    },
+    {
       "Id": "C:\\Users\\user\\Desktop\\CoreDemo\\CoreDemoCamp\\CoreDemo\\wwwroot\\writer\\assets\\images\\sprites\\blue.png",
       "PackagePath": "staticwebassets\\writer\\assets\\images\\sprites\\blue.png"
     },
